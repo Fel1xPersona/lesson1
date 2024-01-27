@@ -1,0 +1,29 @@
+# from turtle import *
+# while True:
+#   forward(9)
+# exitonclick()
+
+# from turtle import*
+
+
+
+# bgcolor ('blue')
+# color ('yellow')
+# speed(39)
+# right(45)
+
+# for i in range(150):
+#     circle(50)
+#     if 7 < i < 62:
+#         left(20)
+#     if 80 < 1 < 133:
+#         right(20)
+#         if i < 80:
+#             forward(20)
+#         else:
+#             forward(20)
+
+
+# numbers_list =[1, 2, 3, 4, 5]
+# numbers_list = list(reversed(numbers_list))
+# print[numbers_list]
